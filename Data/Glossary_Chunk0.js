@@ -1,0 +1,1 @@
+define({'myman':{d:'',l:'Content/Def.htm'}});
