@@ -1,1 +1,1 @@
-define({'myman':{d:'',l:'Content/Def.htm'}});
+define({'myman':{d:'',l:''}});

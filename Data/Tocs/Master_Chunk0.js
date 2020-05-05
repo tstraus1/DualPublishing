@@ -1,1 +1,1 @@
-define({'/Content/Topic.htm':{i:[0],t:['Topic Title'],b:['']},'https://support.insitebanking.com/welcome/software/releases/HTML5/':{i:[1],t:['New entry'],b:['#Insite%20Core/Known%20Issues.htm']}});
+define({'/Content/Topic.htm':{i:[0],t:['Topic Title'],b:['']},'https://www.google.com/':{i:[1],t:['LinkOutsideProject'],b:['#THISWILLAPPEARINTHEURL']}});

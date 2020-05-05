@@ -348,29 +348,6 @@ a.glossaryTerm
 	height: 0;
 }
 
-.MCTopicPopup_Open.MCTopicPopupHotSpot_.MCHotSpotImage.MCTopicPopupHotSpot_Popup
-{
-	background-position: right;
-	background-image: url('ExpandingOpen.gif');
-	padding-right: 17px;
-	padding-left: 0;
-}
-
-.MCTopicPopup_Closed.MCTopicPopupHotSpot_.MCHotSpotImage.MCTopicPopupHotSpot_Popup
-{
-	background-position: right;
-	background-image: url('ExpandingClosed.gif');
-	padding-right: 16px;
-	padding-left: 0;
-}
-
-.\000023text
-{
-	width: 1000px;
-	font-weight: bold;
-	color: Olive;
-}
-
 .MCWebHelpFramesetLink a
 {
 	
